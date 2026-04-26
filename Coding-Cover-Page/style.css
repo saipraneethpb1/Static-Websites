@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap");
+
+.bg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/codingbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.card-container {
+    background-color: #00000080;
+    border: 5px solid #48ee59;
+    padding: 30px;
+    font-family: "Bree Serif";
+}
+
+.heading {
+    color: white;
+    font-size: 28px;
+}
