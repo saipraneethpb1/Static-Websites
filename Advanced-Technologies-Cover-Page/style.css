@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.card {
+    background-color: #ffffff;
+    padding: 10px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.main-heading {
+    font-family: "Bree Serif";
+    font-size: 28px;
+    color: #5752ab;
+    padding: 3px;
+}
+
+.paragraph {
+    font-family: "Roboto";
+    color: #323f4b;
+    padding: 3px;
+}
+
+.button {
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 13px;
+    background-color: #ffffff;
+    border-color: #d7dfe9;
+    padding: 3px;
+    border-radius: 5px;
+    height: 36px;
+    width: 138px;
+    color: #171f46;
+    margin: 5px;
+}
+
+.second-button {
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 13px;
+    background-color: #5752ab;
+    border-color: #d7dfe9;
+    padding: 3px;
+    border-radius: 5px;
+    height: 36px;
+    width: 138px;
+    color: #ffffff;
+    margin: 5px;
+}
