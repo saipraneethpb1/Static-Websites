@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-container {
+    width: 100%;
+}
+
+.mobile-image {
+    width: 100%;
+    display: block;
+}
+
+.spec-card {
+    background-color: white;
+    padding: 20px;
+}
+
+.heading {
+    color: #0a1f44;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.spec-list {
+    color: #0a1f44;
+    font-size: 16px;
+    padding-left: 20px;
+}
+
+.spec-list li {
+    margin-bottom: 12px;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.buy-btn {
+    background-color: #3b82f6;
+    color: #ffffff;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 6px;
+    font-size: 16px;
+}
