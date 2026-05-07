@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.carousal-card {
+    padding: 20px;
+}
+
+.main-heading {
+    font-family: "Roboto";
+    color: white;
+    font-weight: bold;
+    font-size: 26px;
+    padding-left: 20px;
+}
+
+.button {
+    font-family: "Roboto";
+    font-size: 14px;
+    background-color: white;
+    color: #ff8348;
+    border-width: 0px;
+    height: 32px;
+    width: 90px;
+    border-radius: 10px;
+}
+
+.button-card {
+    padding-right: 20px;
+}
+
+.para {
+    font-family: "Roboto";
+    color: white;
+    font-weight: 500;
+    font-size: 12px;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.mini-heading {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: white;
+    font-weight: 400;
+    /*padding-top: 5px;*/
+    padding-left: 20px;
+}
+
+.images {
+    text-align: center;
+    margin: 5px;
+}
