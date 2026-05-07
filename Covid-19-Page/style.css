@@ -1,0 +1,183 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.top-card {
+    color: #323f4b;
+    font-family: "Roboto";
+    padding: 10px;
+    border-radius: 12px;
+    align-items: flex-start;
+}
+
+.covid-heading {
+    font-size: 20px;
+}
+
+.top-button {
+    color: white;
+    background-color: #0967d2;
+    border-radius: 8px;
+    height: 30px;
+    border-width: 0px;
+    font-size: 12px;
+    width: 80px;
+}
+
+.top-image {
+    width: 120px;
+}
+
+.cov-card {
+    background-color: #0967d219;
+    font-family: "Roboto";
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.cov {
+    padding: 10px;
+    width: 60px;
+    height: 60px;
+}
+
+.cov-heading {
+    color: #323f4b;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 12px;
+}
+
+.cov-para {
+    color: #707070;
+    font-size: 12px;
+    padding-left: 12px;
+    font-weight: 500;
+}
+
+.syms-head {
+    font-family: "Roboto";
+    font-size: 20px;
+    margin: 10px;
+    color: #323f4b;
+}
+
+.dry-card {
+    background-color: #3ebd93;
+    height: 100px;
+    width: 80px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.dry-image {
+    text-align: center;
+    height: 80px;
+    width: 60px;
+    padding: 8px;
+}
+
+.dry-image-text {
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
+
+.fever-card {
+    background-color: #e668a7;
+    height: 100px;
+    width: 80px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.fever-image {
+    text-align: center;
+    height: 80px;
+    width: 60px;
+    padding: 8px;
+}
+
+.fever-image-text {
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
+
+.head-card {
+    background-color: #a368fc;
+    height: 100px;
+    width: 80px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.head-image {
+    text-align: center;
+    height: 80px;
+    width: 60px;
+    padding: 8px;
+}
+
+.head-image-text {
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
+
+.videos-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    margin: 10px;
+    color: #323f4b;
+}
+
+.videos-card {
+    background-color: #e12d3919;
+    font-family: "Roboto";
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.bottom-button {
+    color: white;
+    background-color: #0967d2;
+    border-radius: 8px;
+    height: 30px;
+    border-width: 0px;
+    font-size: 12px;
+    width: 80px;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.prevent-heading {
+    color: #323f4b;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 12px;
+}
+
+.videos-para {
+    color: #707070;
+    font-size: 12px;
+    padding-left: 12px;
+    font-weight: 500;
+}
+
+.doc-image {
+    padding: 10px;
+    width: 60px;
+    height: 60px;
+}
+
+.page-boundary {
+    border-color: #0967d219;
+    border-width: 30px;
+}
+
+.boundary {
+    outline: 4px solid #0967d219;
+    border-width: 10px;
+    outline-offset: -4px;
+    margin: 0;
+}
