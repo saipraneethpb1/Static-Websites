@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+body {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+}
+
+.top-section {
+    background-color: #fb4e71;
+    color: #ffffff;
+    padding: 20px;
+}
+
+.player-name {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.player-desc {
+    font-size: 14px;
+}
+
+.player-img {
+    width: 140px;
+}
+
+/* Bottom Section */
+.bottom-section {
+    background-color: #e6f6ff;
+    padding: 20px;
+}
+
+.section-heading {
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.record-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.record-img {
+    width: 100px;
+    border-radius: 10px;
+}
+
+.record-title {
+    font-weight: bold;
+    color: #323f4b;
+}
+
+.record-desc {
+    color: #888888;
+    font-size: 14px;
+}
+
+/* Videos */
+.video-img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.video-title {
+    font-size: 14px;
+    color: #323f4b;
+    margin-top: 5px;
+}
+
+/* Button */
+.custom-btn {
+    border-radius: 8px;
+    padding: 6px 20px;
+}
