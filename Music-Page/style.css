@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://new-assets.ccbp.in/frontend/static-website/moon-stars-bg.png");
+    background-size: cover;
+    height: 100vh;
+    font-family: "Bree Serif";
+}
+
+.main-heading {
+    color: #ffffff;
+    text-align: center;
+    font-size: 26px;
+    padding-top: 80px;
+}
+
+.para {
+    color: #ffffff;
+    text-align: center;
+    font-size: 12px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.img-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/moon-bg.png");
+    background-size: cover;
+    height: 30vh;
+    margin-top: 120px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.img-card-heading {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 62px;
+    color: #ffe7bf;
+}
+
+.home-button-card {
+    text-align: center;
+}
+
+.home-button {
+    color: #ffffff;
+    background-color: #8e97fd;
+    border-radius: 20px;
+}
+
+.bg-detail-container {
+    background-color: #03174c;
+    background-size: cover;
+    height: 100vh;
+    font-family: "Bree Serif";
+}
+
+.img-detail-card {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/clouds-img.png");
+    background-size: cover;
+    height: 40vh;
+}
+
+.detail-heading {
+    color: #ffffff;
+    text-align: left;
+    font-size: 26px;
+    padding-left: 16px;
+    padding-top: 16px;
+}
+
+.detail-para {
+    color: #98a1bd;
+    text-align: left;
+    font-size: 12px;
+    padding-left: 16px;
+}
+
+.para-time {
+    color: #98a1bd;
+    text-align: left;
+    font-size: 12px;
+    padding-top: 10px;
+    padding-left: 16px;
+    padding-bottom: 10px;
+}
+
+.related-para {
+    color: #ffffff;
+    text-align: left;
+    font-size: 18px;
+    padding-left: 16px;
+}
+
+.img {
+    height: 90px;
+    width: 140px;
+    margin-left: 10px;
+}
+
+.moon-clouds {
+    color: #ffffff;
+    text-align: left;
+    font-size: 16px;
+    margin-left: 10px;
+}
+
+.pod-time {
+    color: #98a1bd;
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+.back-button-card {
+    text-align: left;
+    padding-left: 10px;
+}
+
+.back-button {
+    color: #ffffff;
+    background-color: #8e97fd;
+    border-radius: 20px;
+    border-width: 0px;
+}
