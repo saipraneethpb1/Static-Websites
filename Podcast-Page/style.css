@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+    height: 30vh;
+}
+
+.home-heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    color: #ffffff;
+    padding: 18px;
+}
+
+.puri-home-img {
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 100px;
+    width: 130px;
+}
+
+.type-home-heading {
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-left: 20px;
+    color: #151765;
+}
+
+.episode-numbers {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    padding-top: 1px;
+    padding-left: 30px;
+    color: #5a7184;
+}
+
+.puri-bg-container {
+    background-color: #151765;
+    background-size: cover;
+    height: 30vh;
+}
+
+.puri-page-heading {
+    font-family: "Roboto";
+    color: #151765;
+    font-size: 18px;
+    padding: 5px;
+}
+
+.puri-podcast {
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+    color: #ffffff;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+
+.puri-podcast-heading {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.puri-podcast-sub {
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+    color: #ffffff;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+
+.one-pod {
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+    color: #5a7184;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+
+.button-card {
+    text-align: right;
+    margin-bottom: 10px;
+    padding: 1px;
+}
+
+.button {
+    font-family: "Roboto";
+    border-radius: 10px;
+    border-width: 0px;
+    color: #ffffff;
+    background-color: #151765;
+    text-align: right;
+}
