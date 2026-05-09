@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.image-card {
+    text-align: center;
+    margin-top: 20px;
+    font-family: "Bree Serif";
+}
+
+.project-image {
+    height: 200px;
+    width: 260px;
+}
+
+.main-heading {
+    font-size: 18px;
+    color: #183b56;
+}
+
+.main-para {
+    color: #616e7c;
+    font-size: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.home-img1 {
+    height: 80px;
+    width: 160px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.home-img2 {
+    height: 80px;
+    width: 140px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.abg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.acard {
+    background-color: #ffffff;
+    padding: 10px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.amain-heading {
+    font-family: "Bree Serif";
+    font-size: 28px;
+    color: #5752ab;
+    padding: 3px;
+}
+
+.aparagraph {
+    font-family: "Roboto";
+    color: #323f4b;
+    padding: 3px;
+}
+
+.abutton {
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 13px;
+    background-color: #ffffff;
+    border-color: #d7dfe9;
+    padding: 3px;
+    border-radius: 5px;
+    height: 36px;
+    width: 138px;
+    color: #171f46;
+    margin: 5px;
+}
+
+.asecond-button {
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 13px;
+    background-color: #5752ab;
+    border-color: #d7dfe9;
+    padding: 3px;
+    border-radius: 5px;
+    height: 36px;
+    width: 138px;
+    color: #ffffff;
+    margin: 5px;
+}
+
+.diwali-top-section {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.diwali-top-section-heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 36px;
+    width: 200px;
+    padding: 20px;
+}
+
+.diwali-bottom-section {
+    text-align: center;
+    background-color: #e6f6ff;
+    padding: 15px;
+}
+
+.diwali-card-item {
+    text-align: center;
+    background-color: white;
+    width: 140px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 15px;
+}
+
+.diwali-card-image {
+    height: 64px;
+    width: 64px;
+}
+
+.diwali-card-name {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.diwali-card-price {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.fbg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/foodbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.food-card {
+    text-align: left;
+    background-color: #f6c56e;
+    padding: 20px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    height: 200px;
+}
+
+.fmain-heading {
+    font-family: "Bree Serif";
+}
+
+.fparagraph {
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.fbutton {
+    height: 36px;
+    width: 138px;
+    background-color: #ffffff;
+    color: #323f4b;
+    border-radius: 5px;
+    border-width: 0px;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.nbg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/newsbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.ncard {
+    background-color: #ffffff;
+    font-family: "Roboto";
+    padding: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.nmain-heading {
+    color: #323f4b;
+    font-size: 18px;
+}
+
+.nparagraph {
+    color: #7b8794;
+    font-size: 12px;
+    padding-top: 5px;
+}
+
+.nbutton {
+    background-color: #323f4b;
+    color: #ffffff;
+    height: 32px;
+    width: 100px;
+    border-radius: 8px;
+    font-size: 12px;
+}
